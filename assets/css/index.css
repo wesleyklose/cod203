@@ -1,0 +1,19 @@
+hr
+{
+    border-color: black;        
+}
+
+title, h1
+{
+    font-size: 48px;
+}
+
+h2
+{
+    font-size: 36px;
+}
+
+li
+{
+    margin-bottom: 10px;
+}
