@@ -17,5 +17,7 @@
     "url": "https://github.com/marcelreschke/cod203/issues"
   },
   "homepage": "https://github.com/marcelreschke/cod203",
-  "devDependencies": {}
+  "devDependencies": {
+    "posthtml-include": "^1.3.0"
+  }
 }
