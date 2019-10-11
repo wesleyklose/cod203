@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/marcelreschke/cod203/issues"
   },
-  "homepage": "https://github.com/marcelreschke/cod203"
+  "homepage": "https://github.com/marcelreschke/cod203",
+  "devDependencies": {
+    "rollup-plugin-posthtml": "^1.0.1"
+  }
 }
