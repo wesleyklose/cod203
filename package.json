@@ -17,8 +17,5 @@
     "url": "https://github.com/marcelreschke/cod203/issues"
   },
   "homepage": "https://github.com/marcelreschke/cod203",
-  "devDependencies": {
-    "posthtml-include": "^1.3.0",
-    "rollup-plugin-posthtml": "^1.0.1"
-  }
+  "devDependencies": {}
 }
